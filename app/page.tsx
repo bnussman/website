@@ -14,7 +14,7 @@ export default function Home() {
             <LinkItem label="Github" href="https://github.com/bnussman" />
             <LinkItem
               label="LinkedIn"
-              href="https:/linkedin.com/in/banks-nussman-097a73193/"
+              href="https://linkedin.com/in/banks-nussman-097a73193/"
             />
             <LinkItem label="Email" href="mailto:banks@nussman.us" />
           </div>
