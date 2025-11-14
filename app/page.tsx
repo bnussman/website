@@ -28,7 +28,7 @@ export default function Home() {
             description={
               <p>
                 Linode was aquired by Akamai. I'm continuing development on our
-                dashbaord while also maturing Linode's frontend architecture to
+                dashboard while also maturing Linode's frontend architecture to
                 scale to large enterprise customers. View my open source work at
                 Akamai{" "}
                 <Link
@@ -49,7 +49,7 @@ export default function Home() {
             description={
               <p>
                 Modernized, built, maintained, and improved Linode's user-facing
-                dashbaord and TypeScript packages. View open source work at
+                dashboard and TypeScript packages. View open source work at
                 Linode{" "}
                 <Link
                   target="_blank"
